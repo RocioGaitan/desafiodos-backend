@@ -1,0 +1,7 @@
+{
+  "title": "producto",
+  "description": "descripcion de producto",
+  "price": 1500,
+  "code": "001",
+  "stock": 10
+}
